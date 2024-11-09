@@ -1,4 +1,4 @@
-# MyStore - The First Java JDBC Program
+# MyStore - Java JDBC Program
 
 This project involves developing a Java program using JDBC with PostgreSQL to interact with a database
 containing a single table for books. The program is a standalone Java application featuring a menu-driven 
